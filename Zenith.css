@@ -1,0 +1,30 @@
+.sidebar {
+    background-color: red;
+    margin-right: 90px;
+}
+.sidebar {
+    padding-left: 0px;
+    color: white;
+    font-size: 17px;
+}
+.sidebar img {
+    width: 200px;
+    height: 170px;
+    padding-top: 30px;
+}
+.sidebar p:hover {
+    background-color: white;
+    color: red;
+    margin-left: -30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 170px;
+    text-align: center;
+}
+
+.tran1 {
+    background-color: #fee9d6;
+    border-radius: 8px;
+    width: 290px;
+    height: 190px;
+}
